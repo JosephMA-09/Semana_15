@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clasica",
+        "categoria": "Comida rapida",
+        "precio": 3.5,
+        "stock": 8
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Papas Fritas",
+        "categoria": "Comida rapida",
+        "precio": 1.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Limonada",
+        "categoria": "Bebida",
+        "precio": 1.0,
+        "stock": 27
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Ensalada Cesar",
+        "categoria": "Comida saludable",
+        "precio": 4.25,
+        "stock": 10
+    }
+]
